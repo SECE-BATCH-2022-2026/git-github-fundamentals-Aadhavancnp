@@ -1,4 +1,5 @@
 <<<<<<< HEAD
+<<<<<<< HEAD
 # 👋 Hi, I'm Aadhavan. Here are a few things you might like to know about me
 
 ## 👨‍🎓 What I'm studying
@@ -27,27 +28,34 @@ In my free time, I enjoy tinkering with technology and experimenting with new pr
 Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aadhavanp) or check out my [GitHub](https://github.com/Aadhavancnp) for more information!
 =======
 # :wave: The Basics of Git and GitHub 
+=======
+# 👋 Hi, I'm Aadhavan. Here are a few things you might like to know about me
+>>>>>>> 7aec121 (Updated README.md)
 
-## 🤓 Course overview and learning outcomes 
+## 👨‍🎓 What I'm studying
 
-The goal of this course is to give you a brief introduction to GitHub. We’ll also provide you with materials for further learning and a few ideas to get you started on our platform.
+I am currently pursuing a Bachelor of Engineering in Computer Science and Engineering (B.E CSE). I am learning about various topics such as programming languages, algorithms, data structures, computer networks, and software engineering.
 
-## :octocat: Git and GitHub
+## 🌟 What I'm interested in learning
 
-**Git is a distributed Version Control System (VCS) that helps track changes as you work on new software development projects.** Git tracks the changes you make so you always have a record of what you’ve worked on and you can easily revert back to an older version of your code if need be. It also makes working with others easier—groups of people can work together on the same project and merge their changes into one final source! 
+I am passionate about learning new technologies and keeping up with the latest trends in the field of computer science. Some areas that I am particularly interested in include artificial intelligence, machine learning, cybersecurity and web development.
 
-**GitHub is a collaboration platform.** From software to legal documents, you can count on GitHub to help you do your best work with the collaboration and security tools your team needs. With GitHub, you can keep projects completely private, invite the world to collaborate, and streamline every step of your project.
+## 💻 What I'm working on
 
-**GitHub is also a powerful version control tool.** GitHub uses Git, the most popular open source version control software, to track every contribution and contributor to your project—so you know exactly where every line of code came from. 
+As a student, I am working on various projects related to my coursework. I am also constantly seeking opportunities to gain hands-on experience and improve my skills. I am involved in coding clubs, hackathons, and other extracurricular activities to further enhance my knowledge and expertise.
 
-**GitHub helps people do much more.** GitHub is used to build some of the most advanced technologies in the world. Whether you're visualizing data or building a new game, there's a whole community and set of tools on GitHub that can get you to the next step. This course starts with the basics, but we'll dig into the rest later.
+## 🎓 My favorite hobby
 
-## 💻 GitHub features 
+In my free time, I enjoy tinkering with technology and experimenting with new programming languages and tools. I also enjoy reading about the latest advancements in the field of computer science and attending tech events and conferences.
 
-### Repositories 
+## Skills
 
-A repository is where your project work happens. It contains all of your project’s files and revision history. You can work within a repository alone or invite others to collaborate with you on those files. As you work more on GitHub you will have many repositories. Use your GitHub dashboard to easily navigate to them. You must be logged in though! 
+- Proficient in programming languages such as Java, Python, and C++
+- Knowledge of front-end technologies including HTML, CSS, and JavaScript
+- Experience with popular web development frameworks such as React and Angular
+- Familiarity with version control systems such as Git
 
+<<<<<<< HEAD
 Repositories also contain README’s. You can add a README file to your repository to tell other people why your project is useful, what they can do with your project, and how they can use it. We are using this README to communicate how to learn Git and GitHub with you. :smile: 
 
 Read more about repositories [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-repositories) and repository README’s [here](https://docs.github.com/en/github/creating-cloning-and-archiving-repositories/about-readmes). 
@@ -144,3 +152,6 @@ Read more about forking [here](https://docs.github.com/en/github/creating-clonin
 * [Education community forum](https://education.github.community/)
 * [GitHub community forum](https://github.community/)
 >>>>>>> 0bd434f (Initialize first-draft-content)
+=======
+Feel free to connect with me on [LinkedIn](https://www.linkedin.com/in/aadhavanp) or check out my [GitHub](https://github.com/Aadhavancnp) for more information!
+>>>>>>> 7aec121 (Updated README.md)
